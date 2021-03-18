@@ -7,6 +7,4 @@ Ahoy Hoy!
 
 This text was added through the admin interface.
 
-
-
-banana
+bananas > grapes
