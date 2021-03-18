@@ -7,4 +7,4 @@ Ahoy Hoy!
 
 This text was added through the admin interface.
 
-bananas > grapes
+bananas >= grapes
